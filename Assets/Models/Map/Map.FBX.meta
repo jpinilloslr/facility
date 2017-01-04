@@ -1,0 +1,983 @@
+fileFormatVersion: 2
+guid: b2f70410a51f6704e9b26f9c76462038
+timeCreated: 1483230976
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ConrolRoomGlass001
+    100002: ConrolRoomGlass003
+    100004: ConrolRoomGlass004
+    100006: ConrolRoomGlass2
+    100008: "Corredor debajo del ba\xF1o."
+    100010: drain
+    100012: drain 1
+    100014: drain 2
+    100016: drain 3
+    100018: drain 4
+    100020: drain 5
+    100022: drain 6
+    100024: drain 7
+    100026: drain 8
+    100028: drain 9
+    100030: drain001
+    100032: "Entrada al ba\xF1o"
+    100034: "Escaleras traseras al ba\xF1o"
+    100036: Group001
+    100038: Group002
+    100040: Lab2
+    100042: Object001
+    100044: Object002
+    100046: Object003
+    100048: Object004
+    100050: Object005
+    100052: Object006
+    100054: Object007
+    100056: Object008
+    100058: Object009
+    100060: Object010
+    100062: Object011
+    100064: Object012
+    100066: //RootNode
+    100068: StairGlass
+    100070: StairGlass 1
+    100072: StairGlass 2
+    100074: StairGlass 3
+    100076: StairGlass2
+    100078: StairGlass2 1
+    100080: StairGlass2 2
+    100082: StairHandrail
+    100084: StairHandrail 1
+    100086: StairHandrail2
+    100088: StairHandrail2 1
+    100090: tilesfloor
+    100092: tilesfloor 1
+    100094: tilesfloor 10
+    100096: tilesfloor 11
+    100098: tilesfloor 12
+    100100: tilesfloor 13
+    100102: tilesfloor 14
+    100104: tilesfloor 15
+    100106: tilesfloor 16
+    100108: tilesfloor 17
+    100110: tilesfloor 18
+    100112: tilesfloor 19
+    100114: tilesfloor 2
+    100116: tilesfloor 20
+    100118: tilesfloor 21
+    100120: tilesfloor 3
+    100122: tilesfloor 4
+    100124: tilesfloor 5
+    100126: tilesfloor 6
+    100128: tilesfloor 7
+    100130: tilesfloor 8
+    100132: tilesfloor 9
+    100134: tileswall
+    100136: VIFS005
+    100138: VIFS007
+    100140: VIFS008
+    100142: VIFS009
+    100144: VIFS010
+    100146: VIFS013
+    100148: VIFS016
+    100150: VIFS017
+    100152: VIFS020
+    100154: VIFS021
+    100156: VIFS023
+    100158: VIFS024
+    100160: VIFS026
+    100162: VIFS027
+    100164: VIFS028
+    100166: VIFS029
+    100168: VIFS030
+    100170: VIFS031
+    100172: VIFS032
+    100174: VIFS091
+    100176: VIFS092
+    100178: VIFS093
+    100180: VIFS094
+    100182: VIFS096
+    100184: VIFS097
+    100186: VIFS159
+    100188: VIFS162
+    100190: VIFS163
+    100192: VIFS164
+    100194: VIFS165
+    100196: VIFS166
+    100198: VIFS171
+    100200: VIFS173
+    100202: VIFS174
+    100204: VIFS175
+    100206: VIFS292
+    100208: VIFS293
+    100210: VIFS303
+    100212: VIFS304
+    100214: VIFS306
+    100216: VIFS308
+    100218: VIFS309
+    100220: VIFS310
+    100222: VIFS311
+    100224: VIFS312
+    100226: VIFS314
+    100228: VIFS400
+    100230: VIFS402
+    100232: VIFS403
+    100234: VIFS404
+    100236: VIFS406
+    100238: VIFS407
+    100240: VIFS408
+    100242: VIFS409
+    100244: VIFS410
+    100246: VIFS411
+    100248: VIFS413
+    100250: VIFS414
+    100252: VIFS415
+    100254: VIFS416
+    100256: VIFS417
+    100258: VIFS418
+    100260: VIFS420
+    100262: VIFS421
+    100264: VIFS422
+    100266: VIFS423
+    100268: VIFS425
+    100270: VIFS427
+    100272: VIFS428
+    100274: VIFS444
+    100276: VIFS447
+    100278: VIFS448
+    100280: VIFS449
+    100282: VIFS451
+    100284: VIFS452
+    100286: VIFS453
+    100288: VIFS454
+    100290: VIFS456
+    100292: VIFS457
+    100294: VIFS458
+    100296: VIFS460
+    100298: VIFS461
+    100300: VIFS462
+    100302: VIFS466
+    100304: VIFS468
+    100306: VIFS469
+    100308: VIFS470
+    100310: VIFS482
+    100312: VIFS484
+    100314: VIFS485
+    100316: VIFS526
+    100318: VIFS527
+    100320: VIFS529
+    100322: VIFS530
+    100324: VIFS531
+    100326: VIFS532
+    100328: VIFS544
+    100330: VIFS545
+    100332: VIFS546
+    100334: VIFS547
+    100336: VIFS548
+    100338: VIFS549
+    100340: VIFS581
+    100342: VIFS582
+    100344: VIFS583
+    100346: VIFS584
+    100348: VIFS585
+    100350: VIFS622
+    100352: VIFS624
+    100354: VIFS625
+    100356: VIFS626
+    100358: VIFS627
+    100360: VIFS658
+    100362: VIFS659
+    100364: VIFS660
+    100366: VIFS661
+    100368: VIFS675
+    100370: VIFS676
+    100372: VIFS678
+    100374: VIFS679
+    400000: ConrolRoomGlass001
+    400002: ConrolRoomGlass003
+    400004: ConrolRoomGlass004
+    400006: ConrolRoomGlass2
+    400008: "Corredor debajo del ba\xF1o."
+    400010: drain
+    400012: drain 1
+    400014: drain 2
+    400016: drain 3
+    400018: drain 4
+    400020: drain 5
+    400022: drain 6
+    400024: drain 7
+    400026: drain 8
+    400028: drain 9
+    400030: drain001
+    400032: "Entrada al ba\xF1o"
+    400034: "Escaleras traseras al ba\xF1o"
+    400036: Group001
+    400038: Group002
+    400040: Lab2
+    400042: Object001
+    400044: Object002
+    400046: Object003
+    400048: Object004
+    400050: Object005
+    400052: Object006
+    400054: Object007
+    400056: Object008
+    400058: Object009
+    400060: Object010
+    400062: Object011
+    400064: Object012
+    400066: //RootNode
+    400068: StairGlass
+    400070: StairGlass 1
+    400072: StairGlass 2
+    400074: StairGlass 3
+    400076: StairGlass2
+    400078: StairGlass2 1
+    400080: StairGlass2 2
+    400082: StairHandrail
+    400084: StairHandrail 1
+    400086: StairHandrail2
+    400088: StairHandrail2 1
+    400090: tilesfloor
+    400092: tilesfloor 1
+    400094: tilesfloor 10
+    400096: tilesfloor 11
+    400098: tilesfloor 12
+    400100: tilesfloor 13
+    400102: tilesfloor 14
+    400104: tilesfloor 15
+    400106: tilesfloor 16
+    400108: tilesfloor 17
+    400110: tilesfloor 18
+    400112: tilesfloor 19
+    400114: tilesfloor 2
+    400116: tilesfloor 20
+    400118: tilesfloor 21
+    400120: tilesfloor 3
+    400122: tilesfloor 4
+    400124: tilesfloor 5
+    400126: tilesfloor 6
+    400128: tilesfloor 7
+    400130: tilesfloor 8
+    400132: tilesfloor 9
+    400134: tileswall
+    400136: VIFS005
+    400138: VIFS007
+    400140: VIFS008
+    400142: VIFS009
+    400144: VIFS010
+    400146: VIFS013
+    400148: VIFS016
+    400150: VIFS017
+    400152: VIFS020
+    400154: VIFS021
+    400156: VIFS023
+    400158: VIFS024
+    400160: VIFS026
+    400162: VIFS027
+    400164: VIFS028
+    400166: VIFS029
+    400168: VIFS030
+    400170: VIFS031
+    400172: VIFS032
+    400174: VIFS091
+    400176: VIFS092
+    400178: VIFS093
+    400180: VIFS094
+    400182: VIFS096
+    400184: VIFS097
+    400186: VIFS159
+    400188: VIFS162
+    400190: VIFS163
+    400192: VIFS164
+    400194: VIFS165
+    400196: VIFS166
+    400198: VIFS171
+    400200: VIFS173
+    400202: VIFS174
+    400204: VIFS175
+    400206: VIFS292
+    400208: VIFS293
+    400210: VIFS303
+    400212: VIFS304
+    400214: VIFS306
+    400216: VIFS308
+    400218: VIFS309
+    400220: VIFS310
+    400222: VIFS311
+    400224: VIFS312
+    400226: VIFS314
+    400228: VIFS400
+    400230: VIFS402
+    400232: VIFS403
+    400234: VIFS404
+    400236: VIFS406
+    400238: VIFS407
+    400240: VIFS408
+    400242: VIFS409
+    400244: VIFS410
+    400246: VIFS411
+    400248: VIFS413
+    400250: VIFS414
+    400252: VIFS415
+    400254: VIFS416
+    400256: VIFS417
+    400258: VIFS418
+    400260: VIFS420
+    400262: VIFS421
+    400264: VIFS422
+    400266: VIFS423
+    400268: VIFS425
+    400270: VIFS427
+    400272: VIFS428
+    400274: VIFS444
+    400276: VIFS447
+    400278: VIFS448
+    400280: VIFS449
+    400282: VIFS451
+    400284: VIFS452
+    400286: VIFS453
+    400288: VIFS454
+    400290: VIFS456
+    400292: VIFS457
+    400294: VIFS458
+    400296: VIFS460
+    400298: VIFS461
+    400300: VIFS462
+    400302: VIFS466
+    400304: VIFS468
+    400306: VIFS469
+    400308: VIFS470
+    400310: VIFS482
+    400312: VIFS484
+    400314: VIFS485
+    400316: VIFS526
+    400318: VIFS527
+    400320: VIFS529
+    400322: VIFS530
+    400324: VIFS531
+    400326: VIFS532
+    400328: VIFS544
+    400330: VIFS545
+    400332: VIFS546
+    400334: VIFS547
+    400336: VIFS548
+    400338: VIFS549
+    400340: VIFS581
+    400342: VIFS582
+    400344: VIFS583
+    400346: VIFS584
+    400348: VIFS585
+    400350: VIFS622
+    400352: VIFS624
+    400354: VIFS625
+    400356: VIFS626
+    400358: VIFS627
+    400360: VIFS658
+    400362: VIFS659
+    400364: VIFS660
+    400366: VIFS661
+    400368: VIFS675
+    400370: VIFS676
+    400372: VIFS678
+    400374: VIFS679
+    2300000: ConrolRoomGlass001
+    2300002: ConrolRoomGlass003
+    2300004: ConrolRoomGlass004
+    2300006: ConrolRoomGlass2
+    2300008: drain
+    2300010: drain 1
+    2300012: drain 2
+    2300014: drain 3
+    2300016: drain 4
+    2300018: drain 5
+    2300020: drain 6
+    2300022: drain 7
+    2300024: drain 8
+    2300026: drain 9
+    2300028: drain001
+    2300030: Object001
+    2300032: Object002
+    2300034: Object003
+    2300036: Object004
+    2300038: Object005
+    2300040: Object006
+    2300042: Object007
+    2300044: Object008
+    2300046: Object009
+    2300048: Object010
+    2300050: Object011
+    2300052: Object012
+    2300054: StairGlass
+    2300056: StairGlass 1
+    2300058: StairGlass 2
+    2300060: StairGlass 3
+    2300062: StairGlass2
+    2300064: StairGlass2 1
+    2300066: StairGlass2 2
+    2300068: StairHandrail
+    2300070: StairHandrail 1
+    2300072: StairHandrail2
+    2300074: StairHandrail2 1
+    2300076: tilesfloor
+    2300078: tilesfloor 1
+    2300080: tilesfloor 10
+    2300082: tilesfloor 11
+    2300084: tilesfloor 12
+    2300086: tilesfloor 13
+    2300088: tilesfloor 14
+    2300090: tilesfloor 15
+    2300092: tilesfloor 16
+    2300094: tilesfloor 17
+    2300096: tilesfloor 18
+    2300098: tilesfloor 19
+    2300100: tilesfloor 2
+    2300102: tilesfloor 20
+    2300104: tilesfloor 21
+    2300106: tilesfloor 3
+    2300108: tilesfloor 4
+    2300110: tilesfloor 5
+    2300112: tilesfloor 6
+    2300114: tilesfloor 7
+    2300116: tilesfloor 8
+    2300118: tilesfloor 9
+    2300120: tileswall
+    2300122: VIFS005
+    2300124: VIFS007
+    2300126: VIFS008
+    2300128: VIFS009
+    2300130: VIFS010
+    2300132: VIFS013
+    2300134: VIFS016
+    2300136: VIFS017
+    2300138: VIFS020
+    2300140: VIFS021
+    2300142: VIFS023
+    2300144: VIFS024
+    2300146: VIFS026
+    2300148: VIFS027
+    2300150: VIFS028
+    2300152: VIFS029
+    2300154: VIFS030
+    2300156: VIFS031
+    2300158: VIFS032
+    2300160: VIFS091
+    2300162: VIFS092
+    2300164: VIFS093
+    2300166: VIFS094
+    2300168: VIFS096
+    2300170: VIFS097
+    2300172: VIFS159
+    2300174: VIFS162
+    2300176: VIFS163
+    2300178: VIFS164
+    2300180: VIFS165
+    2300182: VIFS171
+    2300184: VIFS173
+    2300186: VIFS174
+    2300188: VIFS175
+    2300190: VIFS292
+    2300192: VIFS293
+    2300194: VIFS303
+    2300196: VIFS304
+    2300198: VIFS306
+    2300200: VIFS308
+    2300202: VIFS309
+    2300204: VIFS310
+    2300206: VIFS311
+    2300208: VIFS312
+    2300210: VIFS314
+    2300212: VIFS400
+    2300214: VIFS402
+    2300216: VIFS403
+    2300218: VIFS404
+    2300220: VIFS406
+    2300222: VIFS407
+    2300224: VIFS408
+    2300226: VIFS409
+    2300228: VIFS410
+    2300230: VIFS411
+    2300232: VIFS413
+    2300234: VIFS414
+    2300236: VIFS415
+    2300238: VIFS416
+    2300240: VIFS417
+    2300242: VIFS418
+    2300244: VIFS420
+    2300246: VIFS421
+    2300248: VIFS422
+    2300250: VIFS423
+    2300252: VIFS425
+    2300254: VIFS427
+    2300256: VIFS428
+    2300258: VIFS444
+    2300260: VIFS447
+    2300262: VIFS448
+    2300264: VIFS449
+    2300266: VIFS451
+    2300268: VIFS452
+    2300270: VIFS453
+    2300272: VIFS454
+    2300274: VIFS456
+    2300276: VIFS457
+    2300278: VIFS458
+    2300280: VIFS460
+    2300282: VIFS461
+    2300284: VIFS462
+    2300286: VIFS466
+    2300288: VIFS468
+    2300290: VIFS469
+    2300292: VIFS470
+    2300294: VIFS482
+    2300296: VIFS484
+    2300298: VIFS485
+    2300300: VIFS526
+    2300302: VIFS527
+    2300304: VIFS529
+    2300306: VIFS530
+    2300308: VIFS531
+    2300310: VIFS532
+    2300312: VIFS544
+    2300314: VIFS545
+    2300316: VIFS546
+    2300318: VIFS547
+    2300320: VIFS548
+    2300322: VIFS549
+    2300324: VIFS581
+    2300326: VIFS582
+    2300328: VIFS583
+    2300330: VIFS584
+    2300332: VIFS585
+    2300334: VIFS622
+    2300336: VIFS624
+    2300338: VIFS625
+    2300340: VIFS626
+    2300342: VIFS627
+    2300344: VIFS658
+    2300346: VIFS659
+    2300348: VIFS660
+    2300350: VIFS661
+    2300352: VIFS675
+    2300354: VIFS676
+    2300356: VIFS678
+    2300358: VIFS679
+    3300000: ConrolRoomGlass001
+    3300002: ConrolRoomGlass003
+    3300004: ConrolRoomGlass004
+    3300006: ConrolRoomGlass2
+    3300008: drain
+    3300010: drain 1
+    3300012: drain 2
+    3300014: drain 3
+    3300016: drain 4
+    3300018: drain 5
+    3300020: drain 6
+    3300022: drain 7
+    3300024: drain 8
+    3300026: drain 9
+    3300028: drain001
+    3300030: Object001
+    3300032: Object002
+    3300034: Object003
+    3300036: Object004
+    3300038: Object005
+    3300040: Object006
+    3300042: Object007
+    3300044: Object008
+    3300046: Object009
+    3300048: Object010
+    3300050: Object011
+    3300052: Object012
+    3300054: StairGlass
+    3300056: StairGlass 1
+    3300058: StairGlass 2
+    3300060: StairGlass 3
+    3300062: StairGlass2
+    3300064: StairGlass2 1
+    3300066: StairGlass2 2
+    3300068: StairHandrail
+    3300070: StairHandrail 1
+    3300072: StairHandrail2
+    3300074: StairHandrail2 1
+    3300076: tilesfloor
+    3300078: tilesfloor 1
+    3300080: tilesfloor 10
+    3300082: tilesfloor 11
+    3300084: tilesfloor 12
+    3300086: tilesfloor 13
+    3300088: tilesfloor 14
+    3300090: tilesfloor 15
+    3300092: tilesfloor 16
+    3300094: tilesfloor 17
+    3300096: tilesfloor 18
+    3300098: tilesfloor 19
+    3300100: tilesfloor 2
+    3300102: tilesfloor 20
+    3300104: tilesfloor 21
+    3300106: tilesfloor 3
+    3300108: tilesfloor 4
+    3300110: tilesfloor 5
+    3300112: tilesfloor 6
+    3300114: tilesfloor 7
+    3300116: tilesfloor 8
+    3300118: tilesfloor 9
+    3300120: tileswall
+    3300122: VIFS005
+    3300124: VIFS007
+    3300126: VIFS008
+    3300128: VIFS009
+    3300130: VIFS010
+    3300132: VIFS013
+    3300134: VIFS016
+    3300136: VIFS017
+    3300138: VIFS020
+    3300140: VIFS021
+    3300142: VIFS023
+    3300144: VIFS024
+    3300146: VIFS026
+    3300148: VIFS027
+    3300150: VIFS028
+    3300152: VIFS029
+    3300154: VIFS030
+    3300156: VIFS031
+    3300158: VIFS032
+    3300160: VIFS091
+    3300162: VIFS092
+    3300164: VIFS093
+    3300166: VIFS094
+    3300168: VIFS096
+    3300170: VIFS097
+    3300172: VIFS159
+    3300174: VIFS162
+    3300176: VIFS163
+    3300178: VIFS164
+    3300180: VIFS165
+    3300182: VIFS171
+    3300184: VIFS173
+    3300186: VIFS174
+    3300188: VIFS175
+    3300190: VIFS292
+    3300192: VIFS293
+    3300194: VIFS303
+    3300196: VIFS304
+    3300198: VIFS306
+    3300200: VIFS308
+    3300202: VIFS309
+    3300204: VIFS310
+    3300206: VIFS311
+    3300208: VIFS312
+    3300210: VIFS314
+    3300212: VIFS400
+    3300214: VIFS402
+    3300216: VIFS403
+    3300218: VIFS404
+    3300220: VIFS406
+    3300222: VIFS407
+    3300224: VIFS408
+    3300226: VIFS409
+    3300228: VIFS410
+    3300230: VIFS411
+    3300232: VIFS413
+    3300234: VIFS414
+    3300236: VIFS415
+    3300238: VIFS416
+    3300240: VIFS417
+    3300242: VIFS418
+    3300244: VIFS420
+    3300246: VIFS421
+    3300248: VIFS422
+    3300250: VIFS423
+    3300252: VIFS425
+    3300254: VIFS427
+    3300256: VIFS428
+    3300258: VIFS444
+    3300260: VIFS447
+    3300262: VIFS448
+    3300264: VIFS449
+    3300266: VIFS451
+    3300268: VIFS452
+    3300270: VIFS453
+    3300272: VIFS454
+    3300274: VIFS456
+    3300276: VIFS457
+    3300278: VIFS458
+    3300280: VIFS460
+    3300282: VIFS461
+    3300284: VIFS462
+    3300286: VIFS466
+    3300288: VIFS468
+    3300290: VIFS469
+    3300292: VIFS470
+    3300294: VIFS482
+    3300296: VIFS484
+    3300298: VIFS485
+    3300300: VIFS526
+    3300302: VIFS527
+    3300304: VIFS529
+    3300306: VIFS530
+    3300308: VIFS531
+    3300310: VIFS532
+    3300312: VIFS544
+    3300314: VIFS545
+    3300316: VIFS546
+    3300318: VIFS547
+    3300320: VIFS548
+    3300322: VIFS549
+    3300324: VIFS581
+    3300326: VIFS582
+    3300328: VIFS583
+    3300330: VIFS584
+    3300332: VIFS585
+    3300334: VIFS622
+    3300336: VIFS624
+    3300338: VIFS625
+    3300340: VIFS626
+    3300342: VIFS627
+    3300344: VIFS658
+    3300346: VIFS659
+    3300348: VIFS660
+    3300350: VIFS661
+    3300352: VIFS675
+    3300354: VIFS676
+    3300356: VIFS678
+    3300358: VIFS679
+    4300000: VIFS010
+    4300002: VIFS007
+    4300004: tilesfloor
+    4300006: VIFS005
+    4300008: VIFS008
+    4300010: VIFS009
+    4300012: VIFS165
+    4300014: VIFS159
+    4300016: tilesfloor
+    4300018: VIFS163
+    4300020: VIFS162
+    4300022: StairHandrail2
+    4300024: VIFS164
+    4300026: VIFS171
+    4300028: tilesfloor
+    4300030: VIFS173
+    4300032: VIFS174
+    4300034: VIFS175
+    4300036: StairGlass2
+    4300038: StairHandrail2
+    4300040: VIFS292
+    4300042: tilesfloor
+    4300044: VIFS293
+    4300046: VIFS309
+    4300048: VIFS304
+    4300050: VIFS314
+    4300052: tilesfloor
+    4300054: VIFS312
+    4300056: VIFS311
+    4300058: VIFS310
+    4300060: VIFS308
+    4300062: tilesfloor
+    4300064: VIFS306
+    4300066: drain
+    4300068: VIFS303
+    4300070: VIFS020
+    4300072: VIFS021
+    4300074: VIFS017
+    4300076: VIFS016
+    4300078: tilesfloor
+    4300080: VIFS013
+    4300082: StairGlass
+    4300084: drain
+    4300086: VIFS428
+    4300088: drain
+    4300090: VIFS470
+    4300092: VIFS469
+    4300094: VIFS468
+    4300096: tilesfloor
+    4300098: VIFS466
+    4300100: drain
+    4300102: VIFS462
+    4300104: VIFS461
+    4300106: VIFS460
+    4300108: tilesfloor
+    4300110: VIFS458
+    4300112: VIFS457
+    4300114: VIFS456
+    4300116: tilesfloor
+    4300118: VIFS454
+    4300120: VIFS453
+    4300122: VIFS452
+    4300124: VIFS451
+    4300126: drain
+    4300128: VIFS449
+    4300130: VIFS448
+    4300132: VIFS447
+    4300134: tilesfloor
+    4300136: VIFS444
+    4300138: VIFS484
+    4300140: tilesfloor
+    4300142: VIFS482
+    4300144: VIFS485
+    4300146: drain
+    4300148: VIFS427
+    4300150: VIFS423
+    4300152: tilesfloor
+    4300154: VIFS425
+    4300156: VIFS400
+    4300158: tilesfloor
+    4300160: VIFS402
+    4300162: VIFS403
+    4300164: VIFS404
+    4300166: VIFS409
+    4300168: VIFS410
+    4300170: VIFS411
+    4300172: tilesfloor
+    4300174: VIFS408
+    4300176: VIFS414
+    4300178: VIFS415
+    4300180: VIFS416
+    4300182: VIFS417
+    4300184: VIFS418
+    4300186: tilesfloor
+    4300188: VIFS420
+    4300190: VIFS421
+    4300192: VIFS422
+    4300194: VIFS407
+    4300196: VIFS406
+    4300198: tilesfloor
+    4300200: VIFS413
+    4300202: VIFS529
+    4300204: tilesfloor
+    4300206: VIFS527
+    4300208: VIFS526
+    4300210: VIFS092
+    4300212: VIFS097
+    4300214: VIFS094
+    4300216: VIFS093
+    4300218: drain
+    4300220: VIFS091
+    4300222: VIFS096
+    4300224: VIFS029
+    4300226: tilesfloor
+    4300228: tileswall
+    4300230: VIFS030
+    4300232: VIFS028
+    4300234: VIFS024
+    4300236: VIFS023
+    4300238: VIFS032
+    4300240: VIFS027
+    4300242: VIFS026
+    4300244: VIFS031
+    4300246: drain
+    4300248: tilesfloor
+    4300250: VIFS661
+    4300252: VIFS660
+    4300254: VIFS659
+    4300256: VIFS658
+    4300258: VIFS627
+    4300260: VIFS626
+    4300262: VIFS625
+    4300264: VIFS624
+    4300266: drain
+    4300268: VIFS622
+    4300270: VIFS585
+    4300272: VIFS584
+    4300274: VIFS583
+    4300276: VIFS582
+    4300278: VIFS581
+    4300280: tilesfloor
+    4300282: VIFS678
+    4300284: drain
+    4300286: VIFS676
+    4300288: VIFS675
+    4300290: tilesfloor
+    4300292: VIFS549
+    4300294: VIFS548
+    4300296: VIFS547
+    4300298: VIFS546
+    4300300: VIFS545
+    4300302: VIFS544
+    4300304: VIFS532
+    4300306: VIFS531
+    4300308: VIFS530
+    4300310: Object001
+    4300312: Object002
+    4300314: Object003
+    4300316: drain001
+    4300318: Object004
+    4300320: Object005
+    4300322: VIFS679
+    4300324: Object006
+    4300326: Object007
+    4300328: Object008
+    4300330: StairGlass
+    4300332: StairGlass
+    4300334: StairGlass
+    4300336: StairGlass2
+    4300338: StairGlass2
+    4300340: StairHandrail
+    4300342: StairHandrail
+    4300344: ConrolRoomGlass001
+    4300346: ConrolRoomGlass2
+    4300348: ConrolRoomGlass003
+    4300350: ConrolRoomGlass004
+    4300352: Object009
+    4300354: Object010
+    4300356: Object011
+    4300358: Object012
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
